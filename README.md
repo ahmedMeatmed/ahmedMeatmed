@@ -4,7 +4,7 @@
 ### Junior Backend Developer (PHP / Laravel) | Computer Engineering Student
 **Cairo, Egypt** 📍
 
-[cite_start]I am a motivated and detail-oriented Backend / Full-Stack Developer with hands-on practice in PHP, Laravel, MySQL, and Vue.js[cite: 1, 2, 3, 10]. [cite_start]I specialize in building responsive, data-driven web applications following Agile and SDLC principles[cite: 11]. [cite_start]I am dedicated to clean code and delivering scalable, maintainable solutions[cite: 14].
+I am a motivated and detail-oriented Backend / Full-Stack Developer with hands-on practice in PHP, Laravel, MySQL, and Vue.js I specialize in building responsive, data-driven web applications following Agile and SDLC principles .I am dedicated to clean code and delivering scalable, maintainable solutions.
 
 ---
 
@@ -34,9 +34,10 @@
 ### 🚀 Featured Projects
 
 #### 🛡️ IDS System Control Dashboard (Graduation Project)
-* [cite_start]**Role:** Full-Stack Developer[cite: 19].
-* [cite_start]**Tech:** Laravel, PHP, Vue.js (SPA), Pinia, MS SQL Server[cite: 23].
-* [cite_start]**Description:** Developed a graduation project focused on an Intrusion Detection System (IDS)[cite: 19]. [cite_start]Implemented a single-page application (SPA) architecture for real-time monitoring and control[cite: 23].
+* **Role:** Full-Stack Developer.
+* **Tech:** Laravel, PHP, Vue.js (SPA), Pinia, MS SQL Server.
+* **Description:** Developed a graduation project focused on an Intrusion Detection System (IDS).
+* Implemented a single-page application (SPA) architecture for real-time monitoring and control.
 
 #### 🛒 E-Commerce Platform
 * [cite_start]**Role:** Front-End Developer[cite: 24].
@@ -63,7 +64,7 @@
 ### 📫 Connect with Me
 
 * [cite_start]**LinkedIn:** [linkedin.com/ahmedmeatmed](https://linkedin.com/ahmedmeatmed) [cite: 7]
-* [cite_start]**Portfolio:** [ahmedmeatmed/Portfolio](https://github.com/ahmedmeatmed/Portfolio) [cite: 8]
+* [cite_start]**Portfolio:** [ahmedmeatmed/Portfolio](https://ahmedmeatmed.github.io/Portfolio/)
 * [cite_start]**Email:** [ahmedelazzba@gmail.com](mailto:ahmedelazzba@gmail.com) [cite: 5]
 
 ---
