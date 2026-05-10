@@ -1,9 +1,9 @@
 ## Hi there, I'm Ahmed Ibrahem! 👋
 
-### Software Engineer | Backend Developer (PHP / Laravel) 
+### Software Engineer | Backend Developer (PHP / Laravel) | Computer Engineering Student
 **Cairo, Egypt** 📍
 
-I am a results-driven Software Engineer with expertise in backend development using PHP and Laravel. I have experience building scalable, secure, and data-driven applications, including CRM, ERP, and real-time systems. I focus on clean code, maintainable architectures, and delivering solutions that solve real-world business challenges.
+I am a results-driven Software Engineer with expertise in backend development using PHP and Laravel. I have experience building scalable, secure, and data-driven applications, including CRM, ERP, and real-time systems. I am also skilled in software testing, including **automation testing, creating test cases, bug reporting, and quality assurance**, ensuring high-quality and reliable software delivery. I focus on clean architecture, workflow automation, and delivering solutions that solve real-world business challenges.
 
 ---
 
@@ -22,6 +22,12 @@ I am a results-driven Software Engineer with expertise in backend development us
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+**Software Testing & QA**
+![Software Testing](https://img.shields.io/badge/Software%20Testing-%23007ACC.svg?style=for-the-badge)
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-blue?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-green?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-red?style=for-the-badge)
+
 **Tools & Collaboration**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -35,12 +41,12 @@ I am a results-driven Software Engineer with expertise in backend development us
 #### 🛡️ IDS System Control Dashboard (Graduation Project)
 * **Role:** Full-Stack Developer  
 * **Tech:** Laravel, PHP, Vue.js (SPA), Pinia, MS SQL Server  
-* **Description:** Developed a real-time Intrusion Detection System dashboard using SPA architecture for monitoring and control.
+* **Description:** Developed a real-time Intrusion Detection System dashboard using SPA architecture for monitoring and control. Applied software testing practices for system reliability.
 
 #### 🏢 CRM & ERP Systems
 * **Role:** Backend Software Engineer  
 * **Tech:** Laravel, MySQL, RESTful APIs  
-* **Description:** Built scalable modules for CRM and ERP platforms, including user management, workflow automation, reporting, and data integrity, enhancing business efficiency.
+* **Description:** Built scalable modules for CRM and ERP platforms, including user management, workflow automation, reporting, and data integrity. Used **DEPI testing skills** to create test cases, report bugs, and ensure high-quality deliverables.
 
 #### 🛒 E-Commerce Platform
 * **Role:** Front-End Developer  
@@ -50,15 +56,15 @@ I am a results-driven Software Engineer with expertise in backend development us
 #### 🤝 Candidates & Employers Platform
 * **Role:** Backend Software Engineer  
 * **Tech:** PHP Laravel, MySQL  
-* **Description:** LinkedIn-inspired platform with job posting, profile management, and responsive UI.
+* **Description:** LinkedIn-inspired platform with job posting, profile management, and responsive UI. Performed **software testing and QA** to maintain code quality and prevent defects.
 
 ---
 
 ### 🎓 Education & Certifications
 
 * **Bachelor's Degree in Computer Engineering and Telecommunication**  
-  * Higher Institute of Engineering and Technology, Tanta (2021–2026)
-* **Software Testing (DEPI)** – Dec 2025
+  * Higher Institute of Engineering and Technology, Tanta (2021–Present)
+* **Software Testing (DEPI)** – Dec 2025 – Automation, Test Cases, Bug Reporting, QA  
 * **Full-Stack Development (PHP Laravel) - ITI** – Jul 2024
 * **Front-End Development (Vue.js) - ITI** – Aug 2025
 
