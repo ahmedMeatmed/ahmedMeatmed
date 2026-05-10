@@ -57,7 +57,7 @@ I am a results-driven Software Engineer with expertise in backend development us
 ### 🎓 Education & Certifications
 
 * **Bachelor's Degree in Computer Engineering and Telecommunication**  
-  * Higher Institute of Engineering and Technology, Tanta (2021–Present)
+  * Higher Institute of Engineering and Technology, Tanta (2021–2026)
 * **Software Testing (DEPI)** – Dec 2025
 * **Full-Stack Development (PHP Laravel) - ITI** – Jul 2024
 * **Front-End Development (Vue.js) - ITI** – Aug 2025
